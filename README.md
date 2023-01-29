@@ -1,2 +1,6 @@
 # guruwiz.github.io
-Min's tech vlog
+<html>
+	<body>
+		Hello! This is the Min's page!
+	</body>
+</html>
